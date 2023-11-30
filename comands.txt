@@ -1,0 +1,21 @@
+//Desplegar el package.json:
+    npm init
+
+//Instalar dependencia de nodemon y morgan
+    npm install nodemon
+    npm install morgan
+    npm install express
+    npm install mongoose
+    npm install mongodb
+
+
+//Iniciar proyecto
+    npm start
+    (Se agrega en Scripts del package.json)
+
+Mongo Atlas:
+root
+YN7mic0LrsVfeXxR
+
+Connection string:
+mongodb+srv://root:<password>@cluster0.stjy9c9.mongodb.net/?retryWrites=true&w=majority
